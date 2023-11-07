@@ -1,14 +1,14 @@
 # ☁️ Cloud-Powered Portfolio Deployment Guide
 
-Welcome to the comprehensive guide for deploying an impressive frontend portfolio website using Azure Cloud services.
+Welcome to the comprehensive guide for deploying an impressive front-end portfolio website using Azure Cloud services.
 
-## Prerequisites
+## 📋 Prerequisites
 
 Before initiating the deployment, ensure you have the following:
 
-- ✔️ An active Azure account with sufficient permissions to create resources.
-- ✔️ Fundamental understanding of Azure services.
-- ✔️ Your portfolio website's HTML and CSS files.
+✔️ An active Azure account with sufficient permissions to create resources.
+✔️ Fundamental understanding of Azure services.
+✔️ Your portfolio website's HTML and CSS files.
 
 ## 🛠️ Steps to Deploy
 
@@ -67,7 +67,9 @@ Associate a public IP with the Load Balancer and configure the DNS zone:
 1. Assign a public IP to the Load Balancer.
 2. Configure an A record in your DNS provider to link to the public IP of the Load Balancer.
 
-## Congratulations on successfully launching your frontend portfolio website using Azure Cloud services!
+## 🚀 Congratulations
 
+You have successfully launched your front-end portfolio website using Azure Cloud services,
 Your website is now live and accessible through the assigned DNS.
+
 For further assistance or customizations, feel free to contact hrushikeshdagwar@gmail.com.

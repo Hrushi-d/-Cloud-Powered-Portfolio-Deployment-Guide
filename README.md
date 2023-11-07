@@ -6,9 +6,9 @@ Welcome to the comprehensive guide for deploying an impressive front-end portfol
 
 Before initiating the deployment, ensure you have the following:
 
-✔️ An active Azure account with sufficient permissions to create resources.
-✔️ Fundamental understanding of Azure services.
-✔️ Your portfolio website's HTML and CSS files.
+-  An active Azure account with sufficient permissions to create resources.
+-  Fundamental understanding of Azure services.
+-  Your portfolio website's HTML and CSS files.
 
 ## 🛠️ Steps to Deploy
 

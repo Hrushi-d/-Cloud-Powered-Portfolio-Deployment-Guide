@@ -1,4 +1,4 @@
-# Cloud-Powered Portfolio Deployment Guide ☁️
+# ☁️ Cloud-Powered Portfolio Deployment Guide
 
 Welcome to the comprehensive guide for deploying an impressive frontend portfolio website using Azure Cloud services.
 
@@ -69,4 +69,5 @@ Associate a public IP with the Load Balancer and configure the DNS zone:
 
 ## Congratulations on successfully launching your frontend portfolio website using Azure Cloud services!
 
-Your website is now live and accessible through the assigned DNS. For further assistance or customizations, feel free to contact hrushikeshdagwar@gmail.com.
+Your website is now live and accessible through the assigned DNS.
+For further assistance or customizations, feel free to contact hrushikeshdagwar@gmail.com.

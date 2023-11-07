@@ -2,7 +2,7 @@
 
 Welcome to the comprehensive guide for deploying an impressive front-end portfolio website using Azure Cloud services.
 
-## 📋 Prerequisites
+## Prerequisites 📋
 
 Before initiating the deployment, ensure you have the following:
 
@@ -72,4 +72,8 @@ Associate a public IP with the Load Balancer and configure the DNS zone:
 You have successfully launched your front-end portfolio website using Azure Cloud services,
 Your website is now live and accessible through the assigned DNS.
 
-For further assistance or customizations, feel free to contact hrushikeshdagwar@gmail.com.
+## Contact Us 📧
+
+Have questions, feedback, or need assistance? feel free to contact:
+
+- Email: [hrushikeshdagwar@gmail.com](mailto:hrushikeshdagwar@gmail.com)
